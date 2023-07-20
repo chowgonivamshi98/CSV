@@ -11,7 +11,7 @@
     "node.js",
     "javascript"
   ],
-  "author": "Shivraj Dange",
+  "author": "chowgoni_vamshi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
